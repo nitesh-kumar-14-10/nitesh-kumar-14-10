@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nitesh-kumar-14-10
-- 👀 I’m interested in ...Java developer
+- 👀 I’m interested in ...Java developer and Web Developer
 - 🌱 I’m currently learning ..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
